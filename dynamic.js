@@ -11,7 +11,7 @@ const peopleData = {
         { name: "👟 Fight 8  ", usageWeekly: 3 }]
 };
 
-//Demo of updating DOM
+//Demo of updating DOM 
 const element = document.getElementById("text_input");
 element.innerText = "Welcome";
 

@@ -1,7 +1,7 @@
 welcomeText = "";
 const peopleData = {
     users:
-        [{ name: "☕️ Fight 1  ", usageWeekly: 36 },
+        [{ name: "☕️ Fight 1  ", usageWeekly: "Heavyweight" },
         { name: "😬 Fight 2  ", usageWeekly: 13 },
         { name: "🍨 Fight 3  ", usageWeekly: 3 },
         { name: "🎸 Fight 4  ", usageWeekly: 0 },

@@ -11,6 +11,8 @@ const peopleData = {
         { name: "👟 Fight 8  ", usageWeekly: 3 }]
 };
 
+
+
 //Demo of updating DOM 
 const element = document.getElementById("text_input");
 element.innerText = "Welcome";
@@ -59,3 +61,4 @@ function openNav() {
 function closeNav() {
     document.getElementById("mySidenav").style.width = "0";
 }
+
